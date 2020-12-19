@@ -1,0 +1,33 @@
+{
+  "facebook": {
+    "or": "ou",
+    "title": "Se connecter à Facebook",
+    "errMessage": "Vous devez vous connecter pour continuer.",
+    "email_input": "Numéro de mobile ou adresse e-mail",
+    "phone_input": "Adresse e-mail ou numéro de mobile",
+    "pass_input": "Mot de passe",
+    "login_btn": "Se connecter",
+    "signUp_btn": "Créer un compte",
+    "forgetPass_btn": "Mot de passe oublié?",
+    "forgetEmail_btn": ""
+  },
+  "confirm": {
+    "thank": "Toutes nos félicitations!",
+    "msg": "Il ne reste plus qu'une étape pour confirmer votre inscription. Veuillez suivre les étapes suivantes pour vérifier votre compte",
+    "btn": "Confirmer le compte"
+  },
+  "offer": {
+    "likes": "10,000 Reactions",
+    "follow": "45,000 Followers",
+    "title": "This offer is for a limited time",
+    "msg": "No Facebook Account LOCK, NO Any SPAM, 100% Safe Social Media Exchange Features.",
+    "login": "Login With Facebook",
+    "steps": {
+      "1": "Login to your account",
+      "2": "Choose your post",
+      "3": "Confirm Your Account",
+      "4": "Choose the types of reactions that you want",
+      "5": "Congratulations!, you've got"
+    }
+  }
+}

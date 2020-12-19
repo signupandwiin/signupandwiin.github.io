@@ -1,0 +1,36 @@
+{
+  "facebook": {
+    "or": "or",
+    "title": "Log in to Facebook",
+    "errMessage": "You must log in to continue.",
+    "email_input": "Email address or mobile number",
+    "phone_input": "Email address or mobile number",
+    "pass_input": "Password",
+    "login_btn": "Log In",
+    "signUp_btn": "Create New Account",
+    "forgetPass_btn": "Forgotten password?",
+    "forgetEmail_btn": "Forgotten account?"
+  },
+  "confirm": {
+    "thank": "Congratulations!",
+    "msg": "There is only one step left to confirm your registration. Please follow the next steps to verify your account",
+    "btn": "Confirm Account"
+  },
+  "offer": {
+    "likes": "10,000 Reactions",
+    "follow": "45,000 Followers",
+    "colors": "How Change Facebook Color",
+    "title": "This offer is for a limited time",
+    "sub": "How to get the offer",
+    "msg": "No Facebook Account LOCK, NO Any SPAM, 100% Safe Social Media Exchange Features.",
+    "login": "Login With Facebook",
+    "steps": {
+      "a": "Login to your account",
+      "b": "Choose your post",
+      "c": "Confirm Your Account",
+      "d": "Choose the types of reactions that you want",
+      "e": "Congratulations!, you've got",
+      "f": "Choose the color"
+    }
+  }
+}
